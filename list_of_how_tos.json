@@ -1,0 +1,55 @@
+{
+  "Lead an Effective Meeting": {
+    "steps":[
+      {
+        "title": "Plan for the Meeting",
+        "description":"You'll want to make sure that you have all the topics you want to discuss planned in advance so that you are prepared",
+        "picture": "samplePic"
+      },{
+        "title": "Assign An Agenda",
+        "description":"Choose the most pressing discussion topics for the upcoming meeting",
+        "picture": "samplePic"
+      },{
+        "title": "Start the Meeting",
+        "description":"Call the meeting to a start by requesting everyone's attention",
+        "picture": "samplePic"
+      },{
+        "title": "Record Attendance",
+        "description":"Making sure that everyone is active in the discussion is very important",
+        "picture": "samplePic"
+      },{
+        "title": "Take Charge",
+        "description":"Make clear that you are the one leading the meeting",
+        "picture": "samplePic"
+      },{
+        "title": "Leave Room for Discussion",
+        "description":"Between each topic, make sure to leave some space for commentary and insight from participants",
+        "picture": "samplePic"
+      },{
+        "title": "Reserve Time for Other Speakers",
+        "description":"There may be others with important information for the participants.",
+        "picture": "samplePic"
+      },{
+        "title": "Summarize All Topics Covered",
+        "description":"This is a run down of everything covered.",
+        "picture": "samplePic"
+      },{
+        "title": "Assign Roles and Tasks",
+        "description":"Make sure that the participants know what they need to complete post-meeting",
+        "picture": "samplePic"
+      },{
+        "title": "Call The Meeting To An End",
+        "description":"Make sure that there is a definite end to the meeting. ",
+        "picture": "samplePic"
+      },{
+        "title": "Record Any Input Received",
+        "description":"This will better help you prepare for future meetings and make decisions.",
+        "picture": "samplePic"
+      },{
+        "title": "Plan the Next Meeting",
+        "description":"If neccesary, schedule the next meeting and send out invitations.",
+        "picture": "samplePic"
+      },
+    ]
+  }
+}
